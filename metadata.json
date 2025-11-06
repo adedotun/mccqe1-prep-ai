@@ -1,0 +1,5 @@
+{
+  "name": "MCCQE1 Prep AI",
+  "description": "An AI-powered quiz application designed to help physicians prepare for the Medical Council of Canada Qualifying Examination (MCCQE1). It generates realistic multiple-choice questions with detailed explanations using the Gemini API.",
+  "requestFramePermissions": []
+}
